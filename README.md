@@ -1,5 +1,5 @@
-# Feedback aggregator cloudflare-assignment
-Cloudflare PM Intern Take-Home Assignment
+# Feedback Signal Aggregator
+**Cloudflare PM Intern Take-Home Assignment**
 
 
 A lightweight product feedback triage tool built on the Cloudflare Developer Platform.
