@@ -9,7 +9,7 @@ This project was created as part of a Product Manager Intern take-home assignmen
 ---
 
 ## Live Demo
-👉 [https://<your-worker>.<account>.workers.dev](https://green-mud-06d7.n12a8lagi.workers.dev/)
+👉 (https://green-mud-06d7.n12a8lagi.workers.dev/)
 
 ---
 
