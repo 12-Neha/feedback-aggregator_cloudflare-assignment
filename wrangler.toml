@@ -1,11 +1,13 @@
 name = "feedback-signal-aggregator"
 main = "src/worker.js"
-compatibility_date = "2024-11-01"
+compatibility_date = "2026-01-01"
 
+# D1 binding (must match env.feedback_db in your code)
 [[d1_databases]]
 binding = "feedback_db"
-database_name = "feedback-db"
-database_id = "<your-db-id>"
+database_name = "db"
+database_id = "0012632f-2cbd-495c-aa45-984d00f6d992"
 
+# Workers AI binding (must match env.AI in your code)
 [ai]
 binding = "AI"
